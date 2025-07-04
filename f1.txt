@@ -8,3 +8,13 @@ welcome to master branch
 
 
 
+<<<<<<< HEAD
+=======
+welcome to sdn branch
+of aiml
+
+
+
+
+
+>>>>>>> sdn
