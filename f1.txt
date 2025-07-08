@@ -17,4 +17,6 @@ of aiml
 
 
 
->>>>>>> sdn
+>>>>>>> sdn changes
+on the git
+of file f1.txt
